@@ -23,3 +23,4 @@ A clean, lightweight, and responsive Shop Stock management web application built
 ## Getting Started
 
 No dependencies, backend, or build step required. Simply open `index.html` in any modern web browser.
+
